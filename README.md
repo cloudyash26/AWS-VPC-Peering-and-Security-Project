@@ -46,7 +46,7 @@ This project taught me the importance of secure network architecture in cloud co
 
 
 
-### Private Instances and Bastion Host
+### Private Instances and Bastion Host (Jump-Server)
 
 
 <img width="1888" height="816" alt="image" src="https://github.com/user-attachments/assets/60c0fb22-c341-4648-878e-6e2ca450abdb" />
